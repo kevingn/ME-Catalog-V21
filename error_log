@@ -1,0 +1,11 @@
+[23-Apr-2015 11:13:55 America/Guayaquil] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/jnideas/public_html/matias/conexion/conexion.php on line 3
+[23-Apr-2015 11:13:55 America/Guayaquil] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/jnideas/public_html/matias/conexion/conexion.php on line 4
+[23-Apr-2015 11:13:55 America/Guayaquil] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/jnideas/public_html/matias/conexion/conexion.php on line 5
+[23-Apr-2015 11:13:55 America/Guayaquil] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/jnideas/public_html/matias/index.php on line 92
+[23-Apr-2015 11:13:55 America/Guayaquil] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/jnideas/public_html/matias/index.php on line 93
+[23-Apr-2015 11:13:55 America/Guayaquil] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/jnideas/public_html/matias/index.php on line 111
+[23-Apr-2015 11:13:55 America/Guayaquil] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/jnideas/public_html/matias/index.php on line 112
+[23-Apr-2015 12:35:05 America/Guayaquil] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/jnideas/public_html/matias/index.php on line 63
+[23-Apr-2015 12:35:05 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/jnideas/public_html/matias/index.php on line 63
+[23-Apr-2015 12:35:22 America/Guayaquil] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/jnideas/public_html/matias/index.php on line 63
+[23-Apr-2015 12:35:22 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/jnideas/public_html/matias/index.php on line 63
